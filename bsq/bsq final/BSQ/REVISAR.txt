@@ -1,5 +1,0 @@
-
-////////// protejer mallocs
-////////// borrar printf
-////////// mirar si no hay filas o si no hay columnas
-////////// mejorar para que se cree la matrix a partir de la validacion
